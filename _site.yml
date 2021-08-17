@@ -1,0 +1,19 @@
+name: "project"
+title: "The Shikokuchuo Project"
+description: |
+  The Shikokuchuo Project
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Books"
+      icon: fa-file
+      href: books.html
+    - text: "Github"
+      icon: fab fa-github
+      href: https://github.com/shikokuchuo/project/
+    - text: "shikokuchuo{net}"
+      icon: fa-cube
+      href: https://shikokuchuo.net/
+base_url: https://shikokuchuo.net/project/
+theme: shikokuchuo.css
+output: distill::distill_article

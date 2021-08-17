@@ -1,0 +1,29 @@
+---
+title: "The Shikokuchuo Project"
+description: |
+  Published Photobooks
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<table><tr>
+<td>
+[![Shikokuchuo 四国中央](img/shikokuchuo.jpg "Click to view online"){width=90%}](http://www.blurb.co.uk/bookshare/app/index.html?bookId=9902976)
+
+</td>
+
+<td>
+[![Not Shikokuchuo, ... 四国中央じゃないけど](img/notshikokuchuo.jpg "Click to view online"){width=90%}](http://www.blurb.co.uk/bookshare/app/index.html?bookId=9905013)
+
+</td>
+</tr></table>
+
+ISBN 978-1-71-427666-0
+
+The photobook「Shikokuchuo 四国中央」was published in 2020, created from photography spanning four years of visits during 2016-19.
+
+ISBN 978-1-71-428247-0
+
+The photobook「Not Shikokuchuo, … 四国中央じゃないけど」was published simultaneously in 2020 as a counterpart, representing the artist’s photography outside of Shikokuchuo.

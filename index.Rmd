@@ -1,0 +1,13 @@
+---
+title: "."
+site: distill::distill_website
+---
+
+```{r images, layout="l-screen", echo=FALSE}
+
+files <- list.files("_images")
+selected <- sample(files, size = 1L)
+par(mar = c(0, 0, 0, 0))
+plot(imager::load.image(file.path("_images", selected)), axes = FALSE)
+
+```
