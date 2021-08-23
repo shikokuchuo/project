@@ -14,7 +14,7 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      1px;
+  --title-size:      16px;
   --body-size:       1rem;
   --code-size:       14px;
   --aside-size:      12px;
@@ -74,3 +74,7 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
+
+d-title {
+  display: none;
+}

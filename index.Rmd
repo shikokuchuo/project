@@ -1,5 +1,5 @@
 ---
-title: "."
+title: "The Shikokuchuo Project"
 site: distill::distill_website
 ---
 
