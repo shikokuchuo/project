@@ -3,11 +3,12 @@
 http://shikokuchuo.net/project/
 
 The Shikokuchuo Project
+四国中央プロジェクト
 
 --
 
 All content, images and photography
-<br />Copyright (C) 2015-2021 Charlie Gao
+<br />Copyright (C) 2010-2021 Charlie Gao
 <br />All rights reserved.
 
 The computer code for generating the website https://shikokuchuo.net/project/ 
