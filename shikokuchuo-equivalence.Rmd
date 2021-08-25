@@ -1,0 +1,34 @@
+---
+title: "Shikokuchuo || equivalence"
+---
+
+Audio recordings made in place of photographs.
+
+Ambient sounds from the environs of Shikokuchuo.
+
+Experimental project.
+
+--
+
+Mishimachuo 5-Chōme
+<audio controls>
+  <source src="audio/Mishimachuo5.mp3" type="audio/mpeg" />
+</audio>
+
+--
+
+Mishimachuo 2-Chōme
+<audio controls>
+  <source src="audio/Mishimachuo2.mp3" type="audio/mpeg" />
+</audio>
+
+--
+
+Mishimachuo 3-Chōme
+<audio controls>
+  <source src="audio/Mishimachuo3.mp3" type="audio/mpeg" />
+</audio>
+
+--
+
+Volume levels are low, please adjust accordingly.

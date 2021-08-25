@@ -1,5 +1,5 @@
 All content, images and photography
-Copyright (C) 2015-2021 Charlie Gao. All rights reserved.
+Copyright (C) 2010-2021 Charlie Gao. All rights reserved.
 
 The computer code for generating the website https://shikokuchuo.net/project/
 Copyright (C) 2021  Charlie Gao

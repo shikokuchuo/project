@@ -5,14 +5,26 @@ description: |
 output_dir: "docs"
 navbar:
   right:
+    - text: "Not Shikokuchuo 2010"
+      icon: fas fa-not-equal
+      href: not-shikokuchuo-2010.html
+    - text: "Shikokuchuo 2016"
+      icon: fas fa-equals
+      href: shikokuchuo-2016.html
+    - text: "Equivalence"
+      icon: fas fa-barcode
+      href: shikokuchuo-equivalence.html
+    - text: "Shikokuchuo 2017-19"
+      icon: fas fa-equals
+      href: shikokuchuo-2019.html
+    - text: "Not Shikokuchuo 2015-2021"
+      icon: fas fa-not-equal
+      href: not-shikokuchuo-2021.html
     - text: "Books"
-      icon: fa-file
+      icon: fas fa-file
       href: books.html
-    - text: "Github"
-      icon: fab fa-github
-      href: https://github.com/shikokuchuo/project/
     - text: "shikokuchuo{net}"
-      icon: fa-cube
+      icon: fas fa-cube
       href: https://shikokuchuo.net/
 base_url: https://shikokuchuo.net/project/
 theme: shikokuchuo.css

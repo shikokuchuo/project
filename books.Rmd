@@ -4,10 +4,6 @@ description: |
   Published Photobooks
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 <table><tr>
 <td>
 [![Shikokuchuo 四国中央](img/shikokuchuo.jpg "Click to view online"){width=90%}](http://www.blurb.co.uk/bookshare/app/index.html?bookId=9902976)
