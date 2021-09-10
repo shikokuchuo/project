@@ -8,18 +8,23 @@ description: |
 <td>
 [![Shikokuchuo 四国中央](img/shikokuchuo.jpg "Click to view online"){width=90%}](http://www.blurb.co.uk/bookshare/app/index.html?bookId=9902976)
 
+ISBN 978-1-71-427666-0
 </td>
 
 <td>
 [![Not Shikokuchuo, ... 四国中央じゃないけど](img/notshikokuchuo.jpg "Click to view online"){width=90%}](http://www.blurb.co.uk/bookshare/app/index.html?bookId=9905013)
 
+ISBN 978-1-71-428247-0
 </td>
 </tr></table>
+--
 
-ISBN 978-1-71-427666-0
+    「Shikokuchuo 四国中央」
 
-The photobook「Shikokuchuo 四国中央」was published in 2020, created from photography spanning four years of visits during 2016-19.
+Published 2020. Created from photography spanning four years of visits to Shikokuchuo over 2016-2019.
 
-ISBN 978-1-71-428247-0
+--
 
-The photobook「Not Shikokuchuo, … 四国中央じゃないけど」was published simultaneously in 2020 as a counterpart, representing the artist’s photography outside of Shikokuchuo.
+    「Not Shikokuchuo, … 四国中央じゃないけど」
+
+Published 2020. Released simultaneously as a counterpart, representing the artist’s photography outside of Shikokuchuo.
