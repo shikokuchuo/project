@@ -10,7 +10,7 @@
 
 /* Optional: embed custom fonts here with `@import`          */
 /* This must remain at the top of this file.                 */
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Open+Sans&family=M+PLUS+1p&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Open+Sans&family=M+PLUS+1p&display=swap');
 
 html {
   /*-- Main font sizes --*/
@@ -27,7 +27,7 @@ html {
   --fig-cap-color:   #02141c;
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    'Open Sans', 'M PLUS 1p', sans-serif;
-  --mono-font:       'Fira Code', monospace;
+  --mono-font:       Inconsolata, monospace;
   --body-font:       'Open Sans', 'M PLUS 1p', sans-serif;
   --navbar-font:     'Open Sans', 'M PLUS 1p', sans-serif;  /* websites + blogs only */
 }
@@ -67,7 +67,7 @@ d-appendix {
 
 .distill-site-footer {
   --text-color:       #02141c;
-  --text-size:        13px;
+  --text-size:        11px;
   --hover-color:      #dd424c;
   --bkgd-color:       #ffffff;
 }
